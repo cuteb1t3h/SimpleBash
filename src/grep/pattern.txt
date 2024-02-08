@@ -1,0 +1,3 @@
+double
+void
+char *name
